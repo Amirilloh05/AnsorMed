@@ -6,6 +6,10 @@
 body {
   padding: 0;
   margin: 0;
+  font-family: "Open Sans" , "Arial", "sans-serif";
+  font-size: 16px;
+  line-height: 1.5;
+  color: #444;
 }
 
 
@@ -18,3 +22,6 @@ padding-right: 30px;
 margin-right: auto;
 margin-left: auto;
 }
+/* open sans 600 ,400,700*/
+
+/* open sans condensed 700 */

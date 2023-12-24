@@ -27,6 +27,7 @@ padding-left: 30px;
 padding-right: 30px;
 margin-right: auto;
 margin-left: auto;
+
 }
 .site-header {
   padding-top: 24px;
@@ -117,7 +118,7 @@ display: inline-block;
 padding: 10px 22px;
 border-radius: 8px;
 border: 2px solid #DE2E54 ;
-font-size: 15px;
+font-size: 14px;
 font-family: "Open Sans Condensed", "Arial", sans-serif;
 letter-spacing: 2px;
 background-color: #DE2E54;
